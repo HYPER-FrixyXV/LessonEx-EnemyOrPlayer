@@ -1,0 +1,12 @@
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\bin\Debug\net10.0\Player.deps.json
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\bin\Debug\net10.0\Player.dll
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\bin\Debug\net10.0\Player.pdb
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.AssemblyInfoInputs.cache
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.AssemblyInfo.cs
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.csproj.CoreCompileInputs.cache
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.dll
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\refint\Player.dll
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.pdb
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\ref\Player.dll
+C:\Users\caich\source\repos\LessonEx-EnemyOrPlayer\EnemyOrPlayer\src\Player\obj\Debug\net10.0\Player.csproj.Up2Date

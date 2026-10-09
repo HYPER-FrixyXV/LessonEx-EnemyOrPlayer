@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Enemy/Enemy.csproj" />
+    <Project Path="src/Player/Player.csproj" />
+    <Project Path="src/Program/Program.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/TestProject1/TestProject1.csproj" />
+  </Folder>
+</Solution>
